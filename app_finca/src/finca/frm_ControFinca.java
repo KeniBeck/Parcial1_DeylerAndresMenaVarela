@@ -387,7 +387,7 @@ txt_id.requestFocus();
             txt_correo.setText(trabajador[pos].getStr_correo());
             txt_dirrecion.setText(trabajador[pos].getStr_dirrecion());
             txt_sexo.setText(trabajador[pos].getStr_sexo());
-            txt_dirrecion.setText(trabajador[pos].getStr_dirrecion());
+            txt_apellido.setText(trabajador[pos].getStr_apellido());
             }
         
     }//GEN-LAST:event_btn_consultarActionPerformed
